@@ -1,0 +1,15 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "description": "a tmdb scraper who create a csv",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davidgalarza",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^3.6.3",
+    "node-scrapy": "^0.2.3",
+  }
+}
